@@ -54,6 +54,10 @@ Fixed Acidity, Volatile Acidity, Citric Acid, Residual Sugar, Chlorides,
 Sulfur Dioxide, Density, pH, Sulphates and ABV(alcohol by volume). 
 
 
+**_Update:_**
+
+The project has been instantiated for bot red and white wine.
+
 
 _**Results:**_
 
