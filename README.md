@@ -54,12 +54,16 @@ Fixed Acidity, Volatile Acidity, Citric Acid, Residual Sugar, Chlorides,
 Sulfur Dioxide, Density, pH, Sulphates and ABV(alcohol by volume). 
 
 
-**_Update:_**
-
-The project has been instantiated for bot red and white wine.
 
 
 _**Results:**_
 
 The program gives a rating as per the input on a scale of 1-10 regarding 
 the quality of the wine.
+
+
+
+**_*Update:_**
+
+The project has been instantiated for both red and white wine.
+
